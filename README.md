@@ -1,0 +1,2 @@
+# pyfig
+python config class
